@@ -15,7 +15,7 @@ This Unity project, developed with 3ds Max, provides a Virtual Reality (VR) envi
 
 ## Demo Video
 
-[![Demo Video](Screenshot.png)](EgyptDemo.mp4)
+[![Demo Video](Screenshot.png)](https://youtu.be/lkDRaLX3vac)
 
 Watch a demo of the VR Abu Simbel Temple Experience in action! Click the image above to view the video.
 
